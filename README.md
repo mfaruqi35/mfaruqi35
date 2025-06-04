@@ -1,7 +1,7 @@
 ## Hi there! I'm Faruqi 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/OnnUZxcHsbBN6/giphy.gif?cid=ecf05e47hn889n3lwn213njfwn42kve665imr44810z2a0ne&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="700" alt="stitch" />
+  <img src="https://media.giphy.com/media/OnnUZxcHsbBN6/giphy.gif?cid=ecf05e47hn889n3lwn213njfwn42kve665imr44810z2a0ne&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="500" alt="stitch" />
 </div>
 
 - 🌱 I’m currently learning AI/ML, Game Development, and other things related to tech.
