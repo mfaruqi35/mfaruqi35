@@ -1,6 +1,8 @@
 ## Hi there! I'm Faruqi 👋
 
-![stitch](https://media.giphy.com/media/OnnUZxcHsbBN6/giphy.gif?cid=ecf05e47hn889n3lwn213njfwn42kve665imr44810z2a0ne&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+<div align="center">
+  <img src="https://media.giphy.com/media/OnnUZxcHsbBN6/giphy.gif?cid=ecf05e47hn889n3lwn213njfwn42kve665imr44810z2a0ne&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="700" alt="stitch" />
+</div>
 
 - 🌱 I’m currently learning AI/ML, Game Development, and other things related to tech.
 
@@ -24,7 +26,10 @@ Here are some ideas to get you started:
 
 ##### My Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mfaruqi35&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfaruqi35&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mfaruqi35&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaruqi35&layout=compact" height="180"/>
+</div>
 
 ##### Connect With Me
 
