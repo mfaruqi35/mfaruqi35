@@ -1,8 +1,12 @@
 ## Hi there!👋
 
-Informatics student at **Syiah Kuala University**, Aceh, building things at the intersection of AI, backend systems, and the web.
+I'm Faruqi, a software engineer in the making.
 
-Currently focus on AI/ML and Backend stuffs. Like turning random ideas into working systems.
+Currently studying Informatics at **Syiah Kuala University**, Aceh, while building things at the intersection of AI, backend systems, and the web.
+
+I'm drawn to the stuff behind the scenes, mostly AI/ML and how everything connects under the hood.
+
+I've built a few things along the way, and currently working on [Find My Frame](https://github.com/mfaruqi35/findmyframe-frontend.git).
 
 ---
 
