@@ -2,7 +2,7 @@
 
 Informatics student at **Syiah Kuala University**, Aceh, building things at the intersection of AI, backend systems, and the web.
 
-Currently focus on AI/ML and Backend stuffs. Like to turning random ideas into working systems.
+Currently focus on AI/ML and Backend stuffs. Like turning random ideas into working systems.
 
 ---
 
